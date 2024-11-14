@@ -23,7 +23,7 @@ La API utiliza el servicio de [jsonplaceholder.typicode.com](https://jsonplaceho
     - `id`: Identificador único del usuario
     - `name`: Nombre completo del usuario
     - `username`: Nombre de usuario único
-    - `email`: Correo electrónico del usuario (valido según formato de email)
+    - `email`: Correo electrónico del usuario
     - `phone`: Teléfono del usuario
     - `website`: Sitio web personal del usuario
 
