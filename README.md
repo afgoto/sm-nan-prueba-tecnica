@@ -60,6 +60,7 @@ La API utiliza el servicio de [jsonplaceholder.typicode.com](https://jsonplaceho
         "sequelize": "^6.33.0"
     }
 }
+```
 
 # Proyecto
 
@@ -85,9 +86,9 @@ Si necesitas eliminar contenedores y reiniciar el entorno desde cero, puedes eje
 
 `docker-compose down -v`
 
-`docker image rm prueba_tecnica` (Opcional)
-
 **Nota:** Esto detendrá y eliminará los contenedores. Los volúmenes de datos, como los de PostgreSQL, no se eliminarán a menos que uses el flag `-v`.
+
+`docker image rm prueba_tecnica` (Opcional)
 
 ## Endpoints de la API
 
