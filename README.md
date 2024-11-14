@@ -40,7 +40,7 @@ La API utiliza el servicio de [jsonplaceholder.typicode.com](https://jsonplaceho
 
 ### Principales Herramientas y Módulos Utilizados
 
-- **Docker** (version mas reciente)
+- **Docker** (27.3.1 o version mas reciente)
 - **Node.js** (versión más reciente)
 - **Sequelize** (ORM para PostgreSQL)
 - **PostgreSQL** (a través de contenedor Docker)
