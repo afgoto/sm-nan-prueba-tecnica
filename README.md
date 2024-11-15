@@ -1,5 +1,5 @@
 
-# Proyecto de Prueba Técnica - SearchMAS
+# Proyecto de Prueba Técnica - SearchMAS - NaN
 
 Esta prueba técnica consiste en crear una pequeña API con **Node.js**, utilizando **PostgreSQL** como base de datos y **Sequelize** como ORM. El objetivo es demostrar el manejo de Node.js, consumo de APIs externas, manejo de base de datos y generación de archivos CSV.
 
